@@ -1,5 +1,23 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.102
+-Christmas decorations added, extra christmas props added.
+-Hopefully fixed carboosting
+-More Vehicle optimizations/ vehicle weight adjustment for agtr35.
+-Updates to the following scripts:
+  --m-christmas (
+    -> Added snowballs.
+    -> Added command to collect snowballs on the ground.
+    -> Only possible collect snowballs if the weather is "xmas".)
+  --Plasmagame bundle (v4 update)
+  --m-insurance
+  --kevin methruns (
+    -> Removed Polyzone useage and replaced with ps-zones
+    -> Added a better gps tracker for the meth vehicle
+    -> Clean/organized code a better for easier understanding.)
+  --jl-motel can now use hotels as apartments if we choose---------------STAFF-VOTE-----------------------
+  --rcore_camping 
+  --updated evidence, can be destroyed after 120 seconds, is washed away in rain.
 ## v1.101
 -Christmas activated, m-christmas, legion christmas map, ice skating with /roller and /leave, snowball pickup with E, xgifts for christmas setup
 -Vehicle pack optimizations
