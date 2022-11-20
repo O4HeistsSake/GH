@@ -1,5 +1,23 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.103
+--Map and prop optimizations(should fix random crash from incorrectly loaded props)
+--More christmas decorations added
+--Updates coming soon for dpemotes and eco crafting.
+-Updates to the following scripts:
+  --rcore-casino
+  --rcore-camping
+  --Advanced drugs
+  --boii cocaine
+  --plasmagame
+  --gksphone
+  --jl-motel
+  --job creator
+  --m-christmas
+  --m-insurance
+  --patoche bumpercars(script and map)
+  --emsnpc
+  --tk-houserobbery
 ## v1.102
 -Christmas decorations added, extra christmas props added.
 -Hopefully fixed carboosting
