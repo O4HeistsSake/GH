@@ -1,5 +1,31 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.104
+-- Another map optimization
+-- updated some props to comply with changes
+-- updated weapons * MCXRattler and MK47Banshee*
+-- Updated fivem appearance and fixed the ambulance changing room again
+-- adjusted pizza delivery job
+-- fixed christmas food and drinks
+-- pulled crabs to try to figure out the issue
+-- minor trucking xp adjustments
+-- fixed dispatch notification system (/togglealerts on) should enable all pop ups
+--updates to the following scripts:
+  --rcore-casino
+  --sd-oxyrun
+  --sd-weedrun
+  --truck logistics
+  --patoche bumper cars
+  -- myDocuments -- condensed id card script think /documents to help limit what players actually have to carry on them
+  -- rcore_drunk
+  -- patababyscript
+  -- rcore camping
+  -- rcore_tattoos with additional tattoos
+  -- core evidence
+  -- dirk weed growing
+  -- item weight balancing to counter the broken delivery truck trunk
+  
+  
 ## v1.103
 --Map and prop optimizations(should fix random crash from incorrectly loaded props)
 --More christmas decorations added
