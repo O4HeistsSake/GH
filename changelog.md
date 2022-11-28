@@ -1,6 +1,7 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
 ## v1.105
+--fixed xmas food and drinks
 -- Fixed map conflict with the toolshop finally
 -- updated more props to comply with changes, new props
 -- fixed car damages
