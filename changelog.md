@@ -1,39 +1,39 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
 ## v1.105
---fixed xmas food and drinks
--- Fixed map conflict with the toolshop finally
--- updated more props to comply with changes, new props
--- fixed car damages
--- updated Plasma Game
--- updates to ambulance job trying to make it so when people are downed it doesnt call automatically
--- updates to nailshop- still working on getting it fully implemented
---updates to the following scripts:
-  --dd-nailShop-qb
-  --Pata_christmasProps
-  --PD Chess
-  --lh34-diamondcasino
-  --qb-core-vapes
-  --Pata_BabyScript
-  --Pata_nurseryProps
-  --m-Christmas
-  --kevin-weedruns
-  --mt-restaurants
-  --electronic cuffs
-  --kq loot areas
-  --jl-motel
-  --DirkWeedGrow
-  --rcore_camping
-  --rcore_casino
-  --tgiann-core
-  --patoche_bumpercar_script
-  --rcore_drunk
-  --tk-houserobbery
-  --GKSPHONE
-  --m-Insurance
-  --[BOII-COCAINE]
-  --PD Ultimate Checkers
-  --RC Cars
+- fixed xmas food and drinks
+- Fixed map conflict with the toolshop finally
+- updated more props to comply with changes, new props
+- fixed car damages
+- updated Plasma Game
+- updates to ambulance job trying to make it so when people are downed it doesnt call automatically
+- updates to nailshop- still working on getting it fully implemented
+-  updates to the following scripts:
+  -dd-nailShop-qb
+  -Pata_christmasProps
+  -PD Chess
+  -lh34-diamondcasino
+  -qb-core-vapes
+  -Pata_BabyScript
+  -Pata_nurseryProps
+  -m-Christmas
+  -kevin-weedruns
+  -mt-restaurants
+  -electronic cuffs
+  -kq loot areas
+  -jl-motel
+  -DirkWeedGrow
+  -rcore_camping
+  -rcore_casino
+  -tgiann-core
+  -patoche_bumpercar_script
+  -rcore_drunk
+  -tk-houserobbery
+  -GKSPHONE
+  -m-Insurance
+  -[BOII-COCAINE]
+  -PD Ultimate Checkers
+  -RC Cars
 
 ## v1.104
 -- Another map optimization
