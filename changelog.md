@@ -56,7 +56,7 @@ All notable changes to this project will be documented in this file.
   - secret_lab
   - sc1_29_motel-davis motel
   - thug-cocaine boat
-  - 
+ 
 ## v1.105
 - fixed xmas food and drinks
 - Fixed map conflict with the toolshop finally
