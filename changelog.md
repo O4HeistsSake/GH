@@ -1,5 +1,62 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.106
+- Added addon clothing please start gathering a list of clothes to pull/replace.
+  - female top 550-560
+  - female hair 176-185
+  - female accessories 171-173
+  - mask 259-261
+  - female shoes 159-163
+  - male hair 122-125
+  - male mask 285-287
+  - male shoes 144-147
+- lowered ped and vehicle density
+- pulled maps not in use
+- pulled scripts not in use
+- updated Plasma Game
+- vehicle condensing
+- sound pack condensing 
+- chopshop adjustments, steel is now only gettable via crafting
+- shops at vespucci beach market are back and working great with cafe coretto pulled for now.
+-  updates to the following scripts:
+  - rcore-casino
+  - boii-hunting
+  - Bobcat robbery
+  - rcore camping
+  - Pata_BabyScript
+  - Pata_nurseryProps
+  - PD_chess
+  - mt-martket
+  - electronic cuffs
+  - job creator
+  - beachgame
+  - wingsuit? may have broke it not sure
+  - tgiann-core
+  - patoche_bumpercar_script
+- removed the following scripts and maps:
+  - kevin-banktrucks - causing timeouts
+  - kevin-methruns - causing timeouts
+  - kevin-oxyruns - causing timeouts 
+  - kevin-weedruns - causing timeouts
+  - brofx paleto motel
+  - cayo perico
+  - cl-policegarage
+  - iak_drugfarm
+  - iak_trashjob
+  - iak_wonkas_fudge_factory
+  - jr_cafe_corretto
+  - lightbars
+  - lightbarscript
+  - mydocuments-hopfully will be fixed and come back
+  - pickle_airport
+  - qb_crabs-main
+  - qb-vs
+  - rex_nft
+  - runwaytaxing, afterburner, soundbarrier
+  - secret_lab
+  - sc1_29_motel-davis motel
+  - thug-cocaine boat
+  - 
 ## v1.105
 - fixed xmas food and drinks
 - Fixed map conflict with the toolshop finally
