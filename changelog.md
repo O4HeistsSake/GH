@@ -1,5 +1,26 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.107
+- Pulled plasma and plasma dlc maps to stop crashing in vespucci thank you Maddie for figuring that out
+- Attempting to fix armor part 2
+- Mile High club pools full now
+- updates to the following scripts:
+  - m-insurance
+  - kq-detective
+  - jl-motel
+  - qb-prisonjobs
+  - sh-maze
+  - fiv3devs_risingsun
+  - rcore guidebook
+  - pd chess
+  - pd checkers
+  - robbery creator
+  - 919 admin
+  - rc cars
+  - mycoduments
+  - rcore carnival
+  - tgiann-core
+  - rcore tattoos, now ownable with jobs in the future
 ## v1.106
 - Added addon clothing please start gathering a list of clothes to pull/replace.
   - female top 550-560
