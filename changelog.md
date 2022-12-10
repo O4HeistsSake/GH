@@ -1,8 +1,10 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
-## v1.107
+## v1.107b
+- !!UPDATED CORE FUNCTION (changed all QBCore:HasItem to QBCore:Functions:HasItem) -created backup and merged changes with new.!! 
+    - hoping this fixes some issues
 - Pulled plasma and plasma dlc maps to stop crashing in vespucci thank you Maddie for figuring that out
-- Attempting to fix armor part 2
+- Attempting to fix armor part 2 - it worked
 - Mile High club pools full now
 - updates to the following scripts:
   - m-insurance
@@ -11,16 +13,116 @@ All notable changes to this project will be documented in this file.
   - qb-prisonjobs
   - sh-maze
   - fiv3devs_risingsun
-  - rcore guidebook
+  - Rcore radiocar:
+       - 🔷 updated rcore_radiocar
+          - Fixed memory leak in js
+          - More efficient method sending position to the NUI
+  - rcore guidebook:
+    - ✨ Features
+      - added help point marker font options (5 default GTA fonts)
+      - added help point marker rotation (x, y, z) settings
+      - help point marker rotation can also follow player camera
+      - help point text size can be set to 0 instead of 0.1 before (making it invisible)
+      - If someone edits page you are currently editing, you will get popup warning at the top to refresh the page
+      - Guidebook can now be opened without any data loaded/created (displays text to reopen guidebook if data have not been loaded, or to create new data if player    has admin rights)
+      - GPS buttons can now be put inline next to each other
+     - 🐛 Bug fixes
+        - fixed module not defined warning in console
+        - fixed video/image not keeping player set dimensions in page editor
+        - fixed edited page not syncing to all players, relog was needed
+        - fixed help point marker/text color input
+        - fixed when player clicked link and code selected html element inside the link, instead of link itself
+        - fixed GPS buttons empty character design bug
+        - fixed not being able to open help point/help point not showing help text
+         
   - pd chess
   - pd checkers
   - robbery creator
-  - 919 admin
+  - 919 admin:
+  - Version 1.5.6
+   -  FULL LOCALES SUPPORT w/ 3 LANGUAGES (NL, DE, EN)
+   -  German translation by @sneaxdev 
+       - other minor new features:
+          - Automatic version checker - users will now be notified on server startup in console if a new version is available)
   - rc cars
   - mycoduments
   - rcore carnival
   - tgiann-core
-  - rcore tattoos, now ownable with jobs in the future
+  - rcore tattoos, now ownable with jobs in the future:
+     - ✨ Features
+        - Added ability to own a Tattoo Shop
+        - Added ESX & QBCore support for society, job and bossmenu
+        - Added complex business
+        - Added simple business
+
+      - Complex business
+        - can have job and employees
+        - customer creates tattoo session that employee can join
+        - customer has to wait for employee
+        - customer can browse tattoos while waiting
+        - employee can join via 🖌️ marker in the shop
+        - employee will have idle animation while waiting for customer
+        - tattoo gun is added to employee's hand
+        - Customer will be sat down on a chair after choosing tattoo
+        - Employee is prompted to confirm start of tattooing
+        - After confirming, employee starts tattooing minigame
+        - Employee must keep steady hands to finish minigame and tattoo customer
+        - Customer/Employee can leave the session anytime 
+        - Customer get's to original shop position after tattoo is finished and employee get's idle animation again
+        - Added margin to configure profit of shop per tattoo in bossmenu
+        - Money is added to business after each successful tattoo purchase
+        - Employee can use ESX or QBCore bossmenu to configure their business
+        - Employee can also use basic menu to configure margin of price
+        - Employee marker label, customer sitting animation (position and animation type), employee idle & tattooing animation (pos and type), job grades, bossmenu ESX options all configurable in config_business.lua
+
+      - Simple Business
+        - STANDALONE - will work without any framework
+        - Some functions regarding money and job won't work, check documentation for more info
+        - Does not have employees/job
+        - Money will still be added to business after each tattoo purchase
+        - Deposit/Withdraw money from custom standalone bossmenu
+        - Business name, owner identifier, bossmenu location and marker settings editable in config 
+        - Business can be easily switched from simple to complex with one edit in config (money of society will be converted to simple business table and vice versa)
+        - New rcore_tattoos_business table in database
+
+       - Config Business
+          - Min/max margin
+          - Minigame timeout/tutorial time and difficulty
+          - complex/simple business setup
+
+      - Other features
+         - Config.PriceMultiplier - price multiplier for all tattoos
+        - Tattoo Opacity has been turned off and moved to experimental features
+        - Frameworks.STANDALONE option added to use limited version of script easily (more in docs)
+        - Shop file filter - you can have shop e.g. only with hair fades, or shop dedicated to gang tattoos, etc
+        - All esx/qbcore event names moved to config_events.lua if anyone needs to edit (more in docs)
+        - Added possibility to add custom code after each tattoo reset (e.g. to reapply hair fades from other scripts etc.)
+        - Pressing ESC in tattoo list menu will return you to body parts menu
+        - Added all previously available languages support for business update (many thanks to our wonderful translators!!!)
+        - Added basic discord logs (tattoo buy, sell...)
+        - refactored buying process because of business update
+        - Added more debug prints for easier bug finding
+        - Removed ability to open tattoo menu from client for another player with event call
+        - If body part has no available tattoos to buy, it becomes disabled in menu and can't be clicked
+
+      - 🐛 Fixes
+        - Fixed henna translation bug (displaying 0 days)
+        - Fixed Tattoo could be bought without opening tattoo list menu
+        - Fixed PlayerData and job errors when not using esx/qbcore
+        - Fixed Camera slider not initializing correctly after shop close and reopen
+        - Fixed problem with renamed crucial scripts like esx/qb...
+        - Fixed UI responsivity bug
+        - Fixed Player job not found after login
+        - Fixed correct marker rendering and render stop
+        - Fixed default config settings bug 
+ 
+      - 📙 Documentation
+        - added business update features
+        - added troubleshooting section
+        - edited API category - removed open menu call from client to client
+        - added Framework.STANDALONE info
+        - added PriceMultiplier, fileFilter, Config.Events, Opacity
+
 ## v1.106
 - Added addon clothing please start gathering a list of clothes to pull/replace.
   - female top 550-560
@@ -162,43 +264,43 @@ All notable changes to this project will be documented in this file.
 -Hopefully fixed carboosting
 -More Vehicle optimizations/ vehicle weight adjustment for agtr35.
 -Updates to the following scripts:
-  --m-christmas (
-    -> Added snowballs.
-    -> Added command to collect snowballs on the ground.
-    -> Only possible collect snowballs if the weather is "xmas".)
-  --Plasmagame bundle (v4 update)
-  --m-insurance
-  --kevin methruns (
-    -> Removed Polyzone useage and replaced with ps-zones
-    -> Added a better gps tracker for the meth vehicle
-    -> Clean/organized code a better for easier understanding.)
-  --jl-motel can now use hotels as apartments if we choose---------------STAFF-VOTE-----------------------
-  --rcore_camping 
-  --updated evidence, can be destroyed after 120 seconds, is washed away in rain.
+  - m-christmas (
+    -Added snowballs.
+    - Added command to collect snowballs on the ground.
+    - Only possible collect snowballs if the weather is "xmas".)
+  - Plasmagame bundle (v4 update)
+  - m-insurance
+  - kevin methruns (
+    - Removed Polyzone useage and replaced with ps-zones
+    - Added a better gps tracker for the meth vehicle
+    - Clean/organized code a better for easier understanding.)
+  - jl-motel can now use hotels as apartments if we choose---------------STAFF-VOTE-----------------------
+  - rcore_camping 
+  - updated evidence, can be destroyed after 120 seconds, is washed away in rain.
 ## v1.101
--Christmas activated, m-christmas, legion christmas map, ice skating with /roller and /leave, snowball pickup with E, xgifts for christmas setup
--Vehicle pack optimizations
--Map pack optimizations[Merged cookies sandy and garage shells with comic store and put in tommymappack]
--reverted changes to small resources that stopped crosshair from working[telescopes, lotto, crosshair]
--merged scripts into small resources[speedlimits, bmx carry, portable yoga, carbomb, lootpeds, qb-peds, qb0sit, randombox]
+- Christmas activated, m-christmas, legion christmas map, ice skating with /roller and /leave, snowball pickup with E, xgifts for christmas setup
+- Vehicle pack optimizations
+- Map pack optimizations[Merged cookies sandy and garage shells with comic store and put in tommymappack]
+- reverted changes to small resources that stopped crosshair from working[telescopes, lotto, crosshair]
+- merged scripts into small resources[speedlimits, bmx carry, portable yoga, carbomb, lootpeds, qb-peds, qb0sit, randombox]
 
--Updates to the following scripts:
-  --GKS PHONE, charging system added with update disabled and phone updated to work properly.
-  --Kevin-banktrucks
-  --Randol Hitman
-  --kq lootareas
-  --jim-plates v1.3.9
-  --lh34 carboosting-- got reports of issues already
-  --m-christmas
-  --sd-oxyrun, sd-warehouse, sd-weedrun
-  --Truck Logistics
-  --Dirk weed
-  --jl-motel
-  --Boii cocaine
-  --Boii Meth
-  --Boii skillsmenu, added in all the trackable skills.
-  --Kevin Oxyruns update and lowered chance of police call
-  --bankrobbery inventory fixes
+- Updates to the following scripts:
+  - GKS PHONE, charging system added with update disabled and phone updated to work properly.
+  - Kevin-banktrucks
+  - Randol Hitman
+  - kq lootareas
+  - jim-plates v1.3.9
+  - lh34 carboosting-- got reports of issues already
+  - m-christmas
+  - sd-oxyrun, sd-warehouse, sd-weedrun
+  - Truck Logistics
+  - Dirk weed
+  - jl-motel
+  - Boii cocaine
+  - Boii Meth
+  - Boii skillsmenu, added in all the trackable skills.
+  - Kevin Oxyruns update and lowered chance of police call
+  - bankrobbery inventory fixes
 ## v1.1
 - Removed the vehicle inventory notification message.
 - Added blah blah blah
