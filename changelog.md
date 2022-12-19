@@ -1,5 +1,79 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.108
+- tweaked payouts of multiple jobs
+- Configured props in furniture store
+- Attempting to fix armor part 3 - it didnt work
+- Fixed all 10 codes for dispatch
+ - Started Work on massive qbcore update.
+    - Updates to the following qb scripts:
+        - qb-weed
+        - qb-weathersync
+        - qb-interior
+        - qb-input
+        - qb-hotdogjob
+        - qb-fitbit
+        - qb-doorlock
+        - qb-diving
+        - qb-customs
+        - qb-crypto
+        - qb-commandbinding
+        - qb-cityhall
+        - qb-busjob
+        - qb-banking
+        - qb-atms
+        - qb-apartments
+        - qb-ambulancejob          
+- updates to the following paid scripts:
+  - job creator
+    - rcore casino
+        - 🔷  update rcore_casino 1.0.28
+        - Poker: Fixed game logic / winnings calculation
+        - Blackjack: Ability to split 2 face cards
+        - Blackjack: Fixed showing incorrect chips on table. Chips objects on table equal the bet value
+        - Table games: Added sounds of chips while betting 🙂
+        - Fixed fullscreen prompt: Cashier, Vehicle purchase not detecting Enter for some players
+           - Map changes
+           - We've made support for the GTA:O casino interior, which is ready for our upcoming scripts and expansion packs
+           - We've removed rcore_casino_map which was included in the previous versions, and replaced it with rcore_casino_interior (MapType 5)
+           - The previous map is still supported in the script (you can keep your old map after update) 
+   - sd-oxyrun
+     - rcore camping
+            - 💎 update rcore_camping 1.2.11
+            - added server event when camping object is placed https://documentation.rcore.cz/paid-resources/rcore_camping/api#camping-object-placed
+            - added server event when camping object is cleared https://documentation.rcore.cz/paid-resources/rcore_camping/api#camping-object-cleared
+            - added server event (only) for object spawn https://documentation.rcore.cz/paid-resources/rcore_camping/api#place-a-camping-object-1 
+    - rcore tattoos
+    - sd-weedrun
+        - Small Code Cleanup(s), added onResourceStop for the peds, so when you ensure the resource in the game, it'll delete the previous ped and spawn the new one in 🙂 
+  - pd checkers
+  - pd chess
+  - rcore radiocar
+       - rcore guidebook
+            - 🔷 update 📖-guidebook 1.1.0
+            - ✨ Features
+            - added help point marker font options (5 default GTA fonts)
+            - added help point marker rotation (x, y, z) settings
+            - help point marker rotation can also follow player camera
+            - help point text size can be set to 0 instead of 0.1 before (making it invisible)
+            - If someone edits page you are currently editing, you will get popup warning at the top to refresh the page
+            - Guidebook can now be opened without any data loaded/created (displays text to reopen guidebook if data have not been loaded, or to create new data if player has admin rights)
+            - GPS buttons can now be put inline next to each other
+            - 🐛 Bug fixes
+            - fixed module not defined warning in console
+            - fixed video/image not keeping player set dimensions in page editor
+            - fixed edited page not syncing to all players, relog was needed
+            - fixed help point marker/text color input
+            - fixed when player clicked link and code selected html element inside the link, instead of link itself
+            - fixed GPS buttons empty character design bug
+            - fixed not being able to open help point/help point not showing help text 
+    - Bobcat Robbery
+        - Fixed Config.Debug & the SMG crate being untargetable if Config.DrawSprite (in qb-target) was true. (on the gabz version) 
+     - dpemotes  
+          - now rpemotes, lots of new emotes overall I used multiple sources to compile the props and animations.
+  - ox-lib
+  - prop updates
+  - m-pondcoffee
 ## v1.107b
 - !!UPDATED CORE FUNCTION (changed all QBCore:HasItem to QBCore:Functions:HasItem) -created backup and merged changes with new.!! 
     - hoping this fixes some issues
