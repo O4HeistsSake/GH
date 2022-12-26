@@ -1,5 +1,25 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.109
+- tweaked payouts for more jobs: rcore mission pack payout increase, trucking logistics payout minimum and maximum increase
+   - updates to the following scripts:
+     - rcore casino
+     - rcore pdm
+     - 919 admin
+     - rcore spray
+     - sh electronic cuffs
+     - job creator
+     - doors creator
+- pulled christmas ymaps kept placed decorations
+- added new props
+- added back pond cafe
+- added back pond coffee job
+- added back legion square
+- added back jetski race in vinewood hills lake
+- Removed seatbelt safety feature(can now exit vehicle while wearing a seatbelt checks are only done for harnesses for exiting a vehicle
+- adjusted speed to take off and put on harness
+- more updates to come just taking it slow for now 
+- also a staff poll for possible scripts will go up in january
 ## v1.108
 - tweaked payouts of multiple jobs
 - Configured props in furniture store
