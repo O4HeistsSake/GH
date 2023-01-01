@@ -1,5 +1,51 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.110
+- Updated drops from trashcans
+   - updates to the following scripts and assets:
+      - bzzz_cocaplant prop
+      - bzzz_weedplant prop
+      - ak47 cookies v2
+      - ak47 usable cookies v2
+      - boii cocaine
+      - boii heroin
+      - boii mteh
+      - boii weed
+      - dirkdrugz prop
+      - dirk weed
+      - doors creator
+      - eco crafting
+      - jim mechanic
+      - jobs_creator
+      - oilrig collissions fixed
+      - prop fixes for three asset packs
+      - patoche bumpercar
+      - qb-diamond casino heist until rcore casino updates/releases the heist with out casino
+      - rcore basketball
+      - rcore basketball assets
+      - rcore bowling
+         - 🔷 update rcore_bowling
+         - added notification when player leaves bowling by going too far away from the lane
+         - fixed an issue where UI would stay open if player opened the UI manually via /bowling and then left bowling 
+      - rcore camping
+         - 💎 update rcore_camping 1.2.12
+         - fixed animation for fish and chicken in Config.FireCraftable  
+      - rcore camping assets
+      - rcore casino
+      - rcore drunk
+      - rcore pdm
+      - rcore tattoos
+          - Added API client event to reload business related markers
+         - Added Config.JobReloadDelay to reload business related markers automatically after set delay
+         - Removed default RCore Logo addon tattoos from config.lua
+            Everything described in documentation:
+            📙 https://documentation.rcore.cz/paid-resources/rcore_tattoos/ 
+      - rcore television
+      - tv_scaleform
+      - kq loot areas
+      - ps mdt
+      - ox lib
+      - m-insurance   
 ## v1.109
 - tweaked payouts for more jobs: rcore mission pack payout increase, trucking logistics payout minimum and maximum increase
    - updates to the following scripts:
