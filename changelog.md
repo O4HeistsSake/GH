@@ -1,5 +1,67 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.111
+- fixed menu image pulling
+- moved boosting laptop and boosting disabler to crafting bench 
+- pulled napp-boostcraft for the two item trades since its craftable.
+- pulled m-foodvan, kind of pointless atm.
+- Started working on qb-smallresources large update.
+- Starting weed updates.
+- Finally Redid a Large portion of the car pack
+- rolled back theater to try to fix screen broken with map update
+- 
+   - updates to the following scripts and assets:
+       - 919 Admin
+       - cd Carhud
+       - cd garage: 
+         - Add:
+        - Added search option to quick and impound menu
+         - Vehicles can now be searched by name, location, plate or manufacturer
+         - Added option to allow multiple jobs to use the JobRestricted garages
+         - Added a staff command to change the plate of the vehicle you are in. This will allow custom plates to be used
+          - Added logs for the vehicle management commands
+          - Added a new function called SetFuel(), (just under the GetFuel() function) to the client_customise_me which will make adding compatibility with fuel scripts much easier. The read me has also been updated
+         - Added a check for the /vehicle-plate command to make sure you can not change a plate to one that already exists
+         - Added the vehicle labels to the transfer vehicle webhooks (ONLY when used from the chat command)
+         - Added the ability to rename all esx events such as the setjob and playerloaded events
+         - When using the regular job garage we had added the ability to restrict cars to certain job grades
+         - Added the ability to have dedicated car/air/boat garages for job garages. This will work with all 3 types of job garages
+         - Added an event that you can trigger after a player purchases a vehicle and it will update the garage_type in the database
+         - Added an event that you can trigger after purchasing a job vehicle and it will set the vehicle as a job owned vehicle (you can choose if you want this vehicle to be personal owned or society owned)
+         - Added full locales to the discord logs so you no longer need to redo them every time the file is updated
+            - Edit
+          - Updated quick menu design
+          - Added extra code to auto fix errors caused by the wrong formatting of QBCore's shared vehicle file.
+          - Added some code for the Config.DebugPrints option to help debug framework related issues.
+          - Improved load time of quick menu
+          - Major optimisation of the client side ms usage
+          - Updated all of the styling of the logs
+          - If you have added jobs to a JobRestricted garage, only people with said job(s) will be able to see this blip. It will also display which jobs this location is restricted to on the blip
+          - Reworked the job cars garage to use the drawtextui instead of chat commands
+          - Reworked the personal owned job vehicles. To make a vehicle a personal owned job vehicle you will need to set the new column in the database 'job_personalowned' to 1. Meaning you no longer need to add all of the personal owned job vehicles to a table in the config
+          - Simplified the whole job garage system in the config so its easier to understand
+          - Updated the codesign error handlers
+          - Reworked the garage tax system to get the garage tax value from each car from the "vehicles" database table. (make sure to insert the new SQL)
+          - Reworked the use of the "vehicles" database table. We now get the vehicle display name, vehicle price, vehicle class and the garage tax amount for each vehicle
+          - Updated the impound UI to the new system of getting the vehicle labels from the database if possible so it always shows the vehicles labels instead of the spawn names
+          - Moved the webhooks to a server only file so it can not be dumped from the config
+          - When impounding a vehicle, you can now choose to send the ID of the vehicle you wish to impound (so you can impound vehicles which are still on the back of tow trucks)
+          - Changed the /vehicle-add command so you can not add a vehicle to the database if it is already owned by a player
+          - Changed the /vehicle-delete so it does not log to discord if the vehicle is not owned by a player
+            - Fix
+           - Fixed an error with the save all vehicle damage events.
+           - Fixed an issue with lockpicking vehicles.
+           - Fixed an issue with saved vehicle keys.
+           - Fixed an bug where it would error when trying to transfer a vehicle when you only have 1 garage location configured.
+           - Fixed cars being able to move when hotwiring.
+       - cd garageshell2
+       - k4mb1 casino
+       - ot recycler
+       - rcore gangs
+       - tk-houserobbery
+       -  pd chess
+       -  pd checkers
+       -  qb-adminmenu put cars in categories based on shared lua
 ## v1.110
 - Updated drops from trashcans
    - updates to the following scripts and assets:
