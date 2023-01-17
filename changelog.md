@@ -48,9 +48,9 @@ All notable changes to this project will be documented in this file.
   - optimized my personal props and added them in
   - starting large clothing rework more updates to come in the future.
   - updated emote menu new runs:
-      -  Bigfoot (move_characters@orleans@core@) - Head hanging slightly forwards, somewhat hurting in left fot, wide with arms as if he's large, walking slow, runs crazy and fast (Used by this character in storymode: https://gta.fandom.com/wiki/Sasquatch_Roleplayer)
-      -  Coward (move_m@coward) - Hunched forward when standing still, other wise not diffrent from the default male walk.
-      -  Dave (move_characters@dave_n) - Shoulders are higher then normal walk, standing wide when still, left foot hurting when running/jogging (sprint is the default one) (Used by Dave Norton in storymode)
+      -      Bigfoot (move_characters@orleans@core@) - Head hanging slightly forwards, somewhat hurting in left fot, wide with arms as if he's large, walking slow, runs crazy and fast (Used by this character in storymode: https://gta.fandom.com/wiki/Sasquatch_Roleplayer)
+      -      Coward (move_m@coward) - Hunched forward when standing still, other wise not diffrent from the default male walk.
+      -      Dave (move_characters@dave_n) - Shoulders are higher then normal walk, standing wide when still, left foot hurting when running/jogging (sprint is the default one) (Used by Dave Norton in storymode)
       -      Femme2 (move_m@femme@) - Shoulders are "swinging", left leg is leaned on when standing still, generally can be best described as a feminine walk for male peds, run and sprint are like the default one (This is one of the avalible walks in GTA Online)
       -      Jimmy (move_characters@jimmy) - Similar to nervous/slow (they are all from the same character afterall), but with out the nervous or slow part (walks normal speed and not tripping with legs when standing still) (Used by Jimmy, the son of Michael in storymode)
       -      Patricia (move_characters@patricia) - Swinging with hips, straight/stiff back, run/sprint is similar to the default female one (Used by Patricia Madrazo in storymode)
@@ -64,7 +64,7 @@ All notable changes to this project will be documented in this file.
       -      Lamar (move_characters@lamar) - This is the default Lamar walk.
       -      Lamar2 (anim_group_move_lemar_alley) - A faster/more paranoid version of the Lemar walk.
       -      Tracey (move_characters@tracey) - Left foot hurting, swings excessively with arms, idles with left foot forwards.
-   -added exit emotes to emote menu: This would add the option to add "exit emotes" for any emote. The point of adding this would be to allow for more "smooth" or "dynamic" animations to be set up, hopefully improving the "natural flow" when using emotes. Further down the line entry emotes could also be added to build on top of this.    
+   - added exit emotes to emote menu: This would add the option to add "exit emotes" for any emote. The point of adding this would be to allow for more "smooth" or "dynamic" animations to be set up, hopefully improving the "natural flow" when using emotes. Further down the line entry emotes could also be added to build on top of this.    
 ## v1.111
 - fixed menu image pulling
 - moved boosting laptop and boosting disabler to crafting bench 
@@ -74,7 +74,6 @@ All notable changes to this project will be documented in this file.
 - Starting weed updates.
 - Finally Redid a Large portion of the car pack
 - rolled back theater to try to fix screen broken with map update
-- 
    - updates to the following scripts and assets:
        - 919 Admin
        - cd Carhud
