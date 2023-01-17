@@ -1,5 +1,52 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.112
+- added tommy custom weapon sratching -small resources
+- Maddie fixed putting people in cars because she is amazing.
+   - updates to the following scripts and assets:
+      - 919 Admin
+      - Rcore Casino
+      - Rcore Carnival
+      - Rcore Drunk
+      - Pata Christmasprops
+      - Pata Gardenprops
+      - Pata Housingprops
+      - Pata Officeprops
+      - Rcore PDM
+      - Rcore Piano
+      - Rcore Radiocar
+      - Rcore Camping
+      - Rcore Television
+      - Rcore Darts
+      - Rcore Gangs
+      - Rcore Spray
+      - Advanced Drugs Creator
+      - sd-bobcat
+      - boii-heroin
+      - bzzz_juiceprops
+      - Doors Creator
+      - FMShared weapon attachments
+      - pizzathisprops
+      - uwuprops
+      - k4mb1 shell pack
+      - kq-loot areas
+      - loaf_housing
+      - m-insurance
+      - mt-market
+      - pd_checkers
+      - pd_chess
+      - qb gas station
+      - Robberies Creator
+      - sd-oxyrun
+      - sd-warehouse
+      - sd-weedrun
+      - sh-electroniccuffs
+      - sh-wingsuit
+      - dirk weed
+      - Added ounces to drug crafting table, working on expanding drugs
+  - cleared up unused assets
+  - optimized my personal props and added them in
+  - starting large clothing rework more updates to come in the future.
 ## v1.111
 - fixed menu image pulling
 - moved boosting laptop and boosting disabler to crafting bench 
