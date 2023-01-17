@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 - added tommy custom weapon sratching -small resources
 - Maddie fixed putting people in cars because she is amazing.
    - updates to the following scripts and assets:
-      - 919 Admin
+      - 919 Admin - All panel settings now save on client side for better performance. Loading of the admin panel has been optimized and sped up substantially.
       - Rcore Casino
       - Rcore Carnival
       - Rcore Drunk
@@ -21,32 +21,50 @@ All notable changes to this project will be documented in this file.
       - Rcore Gangs
       - Rcore Spray
       - Advanced Drugs Creator
-      - sd-bobcat
-      - boii-heroin
+      - sd-bobcat Fixed target error Fixed Guard Peds not syncing, if there were more than 8 of them
+      - boii-heroin - Fixed issue with morphine/liquid heroin prep not removing correct items - Added back in missing images file
       - bzzz_juiceprops
-      - Doors Creator
+      - Doors Creator - Fixed a typo in Lithuanian translations that caused script errors
       - FMShared weapon attachments
       - pizzathisprops
       - uwuprops
-      - k4mb1 shell pack
+      - k4mb1 shell pack - new january shells
       - kq-loot areas
-      - loaf_housing
+      - loaf_housing - Added support for K4MB1's new January shells and Bugfix: Locking/unlocking an MLO house will now update last_entered so that MLO houses do not get deleted even if the player is active.
       - m-insurance
       - mt-market
       - pd_checkers
       - pd_chess
-      - qb gas station
-      - Robberies Creator
-      - sd-oxyrun
-      - sd-warehouse
-      - sd-weedrun
+      - qb gas station Fixed an issue when the owner deletes a job in Hire Deliveryman page it wasn't deleting in the trucker contracts list as well;
+      - Robberies Creator - Added fix for overflow caused when too many heists steps were appearing- Removed the chance to use "lethal gas" and "guards" in the first stage of an heist - Added various debug outputs, useful in case of issues when interacting with steps
+      - sd-oxyrun Replaced 'AddTargetModel' with 'AddTargetEntity' exports, in order to avoid conflicting Peds.
+      - sd-warehouse Fixed Guard Peds not syncing, if there were more than 8 of them
+      - sd-weedrun Replaced 'AddTargetModel' with 'AddTargetEntity' exports, in order to avoid conflicting Peds.
       - sh-electroniccuffs
-      - sh-wingsuit
-      - dirk weed
+      - sh-wingsuit - Item add/delete options added, parachute hidden in air, bug in superboost count fixed, added optional info notification. (wingsuit)
+      - dirk weed - Fixed issues with Seeds not being applied properly and other things not showing up in the UI
       - Added ounces to drug crafting table, working on expanding drugs
   - cleared up unused assets
   - optimized my personal props and added them in
   - starting large clothing rework more updates to come in the future.
+  - updated emote menu new runs:
+      -  Bigfoot (move_characters@orleans@core@) - Head hanging slightly forwards, somewhat hurting in left fot, wide with arms as if he's large, walking slow, runs crazy and fast (Used by this character in storymode: https://gta.fandom.com/wiki/Sasquatch_Roleplayer)
+      -  Coward (move_m@coward) - Hunched forward when standing still, other wise not diffrent from the default male walk.
+      -  Dave (move_characters@dave_n) - Shoulders are higher then normal walk, standing wide when still, left foot hurting when running/jogging (sprint is the default one) (Used by Dave Norton in storymode)
+      -      Femme2 (move_m@femme@) - Shoulders are "swinging", left leg is leaned on when standing still, generally can be best described as a feminine walk for male peds, run and sprint are like the default one (This is one of the avalible walks in GTA Online)
+      -      Jimmy (move_characters@jimmy) - Similar to nervous/slow (they are all from the same character afterall), but with out the nervous or slow part (walks normal speed and not tripping with legs when standing still) (Used by Jimmy, the son of Michael in storymode)
+      -      Patricia (move_characters@patricia) - Swinging with hips, straight/stiff back, run/sprint is similar to the default female one (Used by Patricia Madrazo in storymode)
+      -      Ron (move_characters@ron) - Entire body posture slightly hanging to the left, runs like an idiot, sprint is normal. (Used by Ronald "Ron" Jakowski in storymode)
+      -      Swagger2 (move_m@swagger@b) - Confident and somewhat slow walking, moving slightly to the right every so often, run an sprint is normal.
+      -      Gangster6 (move_f@gangster@ng) - Slight diffrent in walking speed, posture is noticible diffrent, arms are more straight when standing still.
+      -      Veryslow (move_m@leaf_blower) - Head looking down, walking very slowly, running with right arm as if he had a leaf blower, sprint is normal.
+      -      Flee5 (move_m@flee@c) - Similar to Flee4, but multiple diffrences like how many times he turns his head to look behind etc.
+      -      Floyd (move_characters@floyd) - Slightly leaned forward when walking, shoulders are high up when running.
+      -      Hurry3 (move_f@hurry@b) - A more paranoid version then move_f@hurry@a.
+      -      Lamar (move_characters@lamar) - This is the default Lamar walk.
+      -      Lamar2 (anim_group_move_lemar_alley) - A faster/more paranoid version of the Lemar walk.
+      -      Tracey (move_characters@tracey) - Left foot hurting, swings excessively with arms, idles with left foot forwards.
+   -added exit emotes to emote menu: This would add the option to add "exit emotes" for any emote. The point of adding this would be to allow for more "smooth" or "dynamic" animations to be set up, hopefully improving the "natural flow" when using emotes. Further down the line entry emotes could also be added to build on top of this.    
 ## v1.111
 - fixed menu image pulling
 - moved boosting laptop and boosting disabler to crafting bench 
