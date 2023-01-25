@@ -1,5 +1,36 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.113
+- added more emotes, updated emotemenu
+- added pointing hands up and other basic functions to the emote menu not yet active and in use
+- 82 Chameleon Paint colors now up from the 12 we had before
+- updates to closed shops, added murdermeal to burgershot
+   - updated the following scripts and assets
+      - PlasmaKart
+      - PlasmaTron
+      - PlasmaGame
+      - PlasmaCTF
+      - Advanced Drugs Creator
+      - Robberies Creator
+      - Rcore Radiocar
+      - Rcore Drunk
+      - M-Pondcoffee
+      - Jobs Creator
+      - Doors Creator
+      - Blips Creator
+      - Boii Cocaine
+      - Boii Heroin
+      - Boii Meth
+      - Jim- BeanMachine
+      - Jim- PizzaThis
+      - Rcore Casino
+      - Rcore PDM
+      - Jim- Bakery
+      - Pd Checkers
+      - Rcore Basketball
+      - Rcore Darts
+      - Rcore Mission Pack - added a new delivery job with update
+      - sh-electronic cuffs
 ## v1.112
 - added tommy custom weapon sratching -small resources
 - Maddie fixed putting people in cars because she is amazing.
