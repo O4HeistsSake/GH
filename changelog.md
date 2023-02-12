@@ -32,6 +32,14 @@ All notable changes to this project will be documented in this file.
       - tgiann core
       - airballoon bigger door
       - Twotone_pack got some quality of life improvements
+      - sd notify
+      - qb admin
+      - rcore bowling
+      - Twotone carpack added 2020Explorer to pd section
+      - sd cokemission
+      - sd weedrun
+      - sd warehouse
+      - sd bobcat
 
       
 ## v1.113
