@@ -1,5 +1,39 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.114
+- added more emotes, updated emotemenu
+- combined 21 resources into my own custom asset with 0ms and functionality to restart while live
+- reduced stone weight, mining laser price reduced, reduced weight of various ores
+- reduced taxes
+- updated the guide significantly
+- reduced blips
+   - updates to the following scripts and assets:
+      - Rcore Drunk
+      - Rcore Carnival
+      - Rcore Beerpong
+      - Pata Garden props - hopefully fixes the sinking
+      - Pata Valentines props
+      - Rcore PDM
+      - Rcore Piano
+      - Rcore Radiocar
+      - Rcore TV
+      - Advanced Drug Creator
+      - cd carhud
+      - cd garage
+      - gksphone
+      - pizzathis props
+      - kq loot areas
+      - qb vape
+      - qb gas station
+      - trucking logistics
+      - Rcore Spray
+      - Rcore Gangs v1.3
+      - robbery creator
+      - tgiann core
+      - airballoon bigger door
+      - Twotone_pack got some quality of life improvements
+
+      
 ## v1.113
 - added more emotes, updated emotemenu
 - added pointing hands up and other basic functions to the emote menu not yet active and in use
