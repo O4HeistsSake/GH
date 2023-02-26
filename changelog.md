@@ -1,5 +1,46 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.115
+- Updated Server with windows updates
+- removed unused assets
+   - updates to the following scripts and assets:
+      -   rcore radiocar
+      -   rcore camping
+      -   rcore camping assets
+      -   advanced drug creator
+      -   rcore television
+      -   tv_scaleform
+      -   brofx_mansion 18
+      -   cd carhud
+      -   cd garage
+      -   door creator
+      -   fmshared weapon attachement pack
+      -   jim bakery
+      -   jim bars
+      -   jim beanmachine
+      -   jim catcafe
+      -   jim henhouse
+      -   jim lumberjack
+      -   jim popsdiner
+      -   jim tequilala
+      -   jim vanilla unicorn
+      -   jixel cluckinbell
+      -   jobs creator
+      -   kq carheist
+      -   qb casinoheist
+      -   mcx rattler, new attachments also added for this
+      -   rcore gangs
+      -   rcore mission pack
+      -   rcore mission framework
+      -   rcore mission assets
+      -   robbery creator
+      -   sh maze
+      -   sh rcCars
+      -   tgiann core
+      -   tzmc vending
+      -   rcore piano
+      -   eco crafting- can now add exports to open tables in custom event
+      -   truck logistics
 ## v1.114
 - added more emotes, updated emotemenu
 - combined 21 resources into my own custom asset with 0ms and functionality to restart while live
