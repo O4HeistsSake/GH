@@ -1,5 +1,108 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.116
+- **Asset changes**
+   - removed the following assets:
+      -   kq_gameboy
+      -   myDj
+      -   sh-maze
+      -   sh-maze map
+      -   8x biketricks
+      -   a5 policedash
+      -   opticomsystem
+      -   smartmatrix
+      -   glow minigames
+      -   lockpick-main minigame --duplicate
+      -   safecracker minigame --duplicate
+      -   rdzk-mirror park bar
+      -   dc shiftlog
+   - updates to the following scripts and assets:
+      -   rcore carnival
+      -   rcore guidebook
+      -   rcore gunrange
+      -   rcore gangs
+      -   rcore casino
+      -   rcore drunk
+      -   rcore beerpong
+      -   rcore icehockey
+      -   rcore missionpack
+      -   rcore stickers
+      -   rcore pdm
+      -   rcore television
+      -   pondcafe props
+      -   upnatom props
+      -   uwu props
+      -   pizzathis props
+      -   gks phone
+      -   jim bakery1.3.4
+      -   jim bars 1.3.5
+      -   jim beanmachine 1.4.4
+      -   Jim burgershot 2.4.9
+      -   jim catcafe 1.8.6
+      -   jim pizzathis 1.7.3
+      -   Jim Lumberjack 1.2.3
+      -   Jim Upnatomhorny 1.0.1
+      -   jim popsdiner 1.6.3
+      -   jim chairs
+      -   jixel whitewidow
+      -   all gabz assets
+      -   rm artifactheist
+      -   rm shoprobbery
+      -   rm undergroundheist
+      -   rm oilrigheist
+      -   rm drugboatheist
+      -   rm carheist
+      -   rm jailbreak
+      -   rm unionheist
+      -   rm vangelicofinal
+      -   rm yachtheist
+      -   tk peyote
+      -   tk houserobbery
+      -   az trailer
+      -   rpemotes new emotes
+      -   envi dumpsterdive
+      -   truck logistics and trucking vehicles
+      -   fennec dtd
+      -   doors creator
+      -   robbery creator
+      -   jobs creator
+      -   blips creator
+      -   boii chiphack minigame
+      -   dirk drug labs v2
+      -   patababy script
+      -   patababy props
+      -   sd announce
+      -   pata rccars
+      -   roller skating
+      -   brutal baby
+      -   stroller for above
+      -   rubk cube
+      -   sh electronic cuffs
+      -   sd notify
+      -   tgiann core
+      -   ps hud
+      -   ps mdt
+      -   ps ui
+      -   ps dispatch
+      -   ps buffs
+      -   qb tunerchip
+      -   qb beekeeping
+      -   qb menu
+      -   advanced drug creator
+      -   smartdrone
+      -   helirescue
+      -   m insurance
+      -   kq parking enforcer
+      -   kq outfit bag
+      -   k4mb1 miningcave
+      -   kevin methruns kevin banktrucks
+      -   boii ketamine
+      -   dd nailshop fixed export and added nail salon map
+      -   gg frisbeegolf
+    - additional weapons, two new swords and mechanic tool melee weapons  
+    - ketamine new drug
+    - stickers for cars is new with rcore stickers
+    - stancer scirpt requested
 ## v1.115
 - Updated Server with windows updates
 - removed unused assets
