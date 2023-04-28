@@ -1,5 +1,76 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+## v1.117
+- **Asset changes**
+   - updates to the following scripts and assets:
+      -   919 admin
+      -   jim jobgarage
+      -   tgiann core
+      -   advanced drug creator
+      -   bzzz lights
+      -   pata housing update
+      -   randol hitman
+      -   ps camera
+      -   ps liveries
+      -   ps mdt
+      -   rcore spray
+      -   jobs creator
+      -   rcore carnival
+      -   robberies creator
+      -   rcore basketball
+      -   carboosting -- big update
+      -   rcore beerpong
+      -   gks phone new icons new phone layout removed info app
+      -   patoche bumpercars
+      -   new version of skydive map
+      -   rcore radiocar
+      -   dirk core
+      -   dirk weed
+      -   dirk druglabs
+      -   patababyscript
+      -   pd image placer
+      -   qv backpack added animation to opening backpack
+      -   brutal baby script
+      -   pata pet props
+      -   kq outfit bag
+      -   rcore piano
+      -   um rodeo
+      -   sn addonweapons
+      -   ap documents
+      -   ak47 cookies
+      -   wheelstancer
+      -   trey bakery
+      -   pond cafe
+      -   lazy motel
+      -   rcore casino
+      -   lh humanelabs rewrite
+      -   k4mb1 casino
+      -   loaf housing
+      -   loaf realtor
+      -   idrp atom props
+      -   five3devs headquarters update
+      -   new gang hideout
+      -   pata rcrace
+      -   kq detective
+      -   sh electronic cuffs
+      -   swanpedalo
+      -   sh wingsuit
+      -   idrp uwu props
+      -   legion square
+      -   m insurance
+      -   jim pizzathis
+      -   jim-burgershot
+   - removed the following assets:
+      -   cayo
+      -   racks ymaps
+      -   scully mba
+      -   telescopes
+      -   tzmc vending
+      -   dc open houses
+      -   masi hookies
+      -   cassidy
+      -   ot recycler prop
+      -   parasha_flat
 ## v1.116
 - **Asset changes**
    - removed the following assets:
