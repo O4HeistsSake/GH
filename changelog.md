@@ -1,866 +1,100 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
-## v1.117
+## v1.5
 - **Asset changes**
    - updates to the following scripts and assets:
-      -   919 admin
-      -   jim jobgarage
-      -   tgiann core
-      -   advanced drug creator
-      -   bzzz lights
-      -   pata housing update
-      -   randol hitman
-      -   ps camera
-      -   ps liveries
-      -   ps mdt
-      -   rcore spray
-      -   jobs creator
-      -   rcore carnival
-      -   robberies creator
-      -   rcore basketball
-      -   carboosting -- big update
-      -   rcore beerpong
-      -   gks phone new icons new phone layout removed info app
-      -   patoche bumpercars
-      -   new version of skydive map
-      -   rcore radiocar
-      -   dirk core
-      -   dirk weed
-      -   dirk druglabs
-      -   patababyscript
-      -   pd image placer
-      -   qv backpack added animation to opening backpack
-      -   brutal baby script
-      -   pata pet props
-      -   kq outfit bag
-      -   rcore piano
-      -   um rodeo
-      -   sn addonweapons
-      -   ap documents
-      -   ak47 cookies
-      -   wheelstancer
-      -   trey bakery
-      -   pond cafe
-      -   lazy motel
-      -   rcore casino
-      -   lh humanelabs rewrite
-      -   k4mb1 casino
-      -   loaf housing
-      -   loaf realtor
-      -   idrp atom props
-      -   five3devs headquarters update
-      -   new gang hideout
-      -   pata rcrace
-      -   kq detective
-      -   sh electronic cuffs
-      -   swanpedalo
-      -   sh wingsuit
-      -   idrp uwu props
-      -   legion square
-      -   m insurance
-      -   jim pizzathis
+      -   ap-court
+      -   ap-government
+      -   blips_creator
+      -   bmx_cinemadoppler
+      -   dd-nailShop-qb
+      -   dirk-bounties
+      -   dirk-druglabsv2
+      -   dirkdrugz
+      -   dirk-weed
+      -   doors_creator
+      -   drugs_creator
+      -   fd_radio
+      -   DMShared
+      -   gksphone
+      -   grappler
+      -   hollywoodiownu_panda_bear
+      -   idrp_atom_props
+      -   idrp_pizzathis_props
+      -   idrp_uwu_props
       -   jim-burgershot
+      -   jim-popsdiner
+      -   jim_vanillaunicorn
+      -   kq_carheist
+      -   kq_lootareas
+      -   Pata_GamerOffice
+      -   Pata_garden
+      -   Pata_NurseryProps
+      -   Pata_NurseryPropsControl
+      -   Pata_OfficeClassic
+      -   Pata_PinkOffice
+      -   Pata_RcRace
+      -   Pata_StreamLightPropsControl
+      -   patoche_bumpercar
+      -   pd_chess
+      -   pd_image_placer
+      -   qb_gas_stations
+      -   qb-beekeeping
+      -   qb-carboosting
+      -   qb-prisonjobs
+      -   qb-wheelstancer
+      -   randol_emsnpc
+      -   rcore_camping
+      -   rcore_camping_assets
+      -   rcore_carnival
+      -   rcore_carnival_assets
+      -   rcore_darts
+      -   rcore_gangs
+      -   rcore_gunrange
+      -   rcore_pdm
+      -  rcore_radiocar
+      -  rcore_spray
+      -   rcore_spray_assets
+      -   robberies_creator
+      -   rcore_stickers
+      -   rcore_tattoos
+      -   rcore_television
+      -   starchase
+      -   truck_logistics
+      -  tv_scaleform
+      -   voodoo_dooballoo
+      -   brutal_pets
+      -   sd_lib
+      -   sd-bobcat
+      -   sd-cokemission
+      -   sd-oxyrun
+      -   sd-warehouse
+      -   sh-rcCars
+      -   SleepOrSex
+      -   tgiann-core
+      -   tgiann-erpv2
+      -   tgiann-naked
+      -   truck-logistics
+      -  
+      -   
    - removed the following assets:
-      -   cayo
-      -   racks ymaps
-      -   scully mba
-      -   telescopes
-      -   tzmc vending
-      -   dc open houses
-      -   masi hookies
-      -   cassidy
-      -   ot recycler prop
-      -   parasha_flat
-## v1.116
-- **Asset changes**
-   - removed the following assets:
-      -   kq_gameboy
-      -   myDj
-      -   sh-maze
-      -   sh-maze map
-      -   8x biketricks
-      -   a5 policedash
-      -   opticomsystem
-      -   smartmatrix
-      -   glow minigames
-      -   lockpick-main minigame --duplicate
-      -   safecracker minigame --duplicate
-      -   rdzk-mirror park bar
-      -   dc shiftlog
-   - updates to the following scripts and assets:
-      -   rcore carnival
-      -   rcore guidebook
-      -   rcore gunrange
-      -   rcore gangs
-      -   rcore casino
-      -   rcore drunk
-      -   rcore beerpong
-      -   rcore icehockey
-      -   rcore missionpack
-      -   rcore stickers
-      -   rcore pdm
-      -   rcore television
-      -   pondcafe props
-      -   upnatom props
-      -   uwu props
-      -   pizzathis props
-      -   gks phone
-      -   jim bakery1.3.4
-      -   jim bars 1.3.5
-      -   jim beanmachine 1.4.4
-      -   Jim burgershot 2.4.9
-      -   jim catcafe 1.8.6
-      -   jim pizzathis 1.7.3
-      -   Jim Lumberjack 1.2.3
-      -   Jim Upnatomhorny 1.0.1
-      -   jim popsdiner 1.6.3
-      -   jim chairs
-      -   jixel whitewidow
-      -   all gabz assets
-      -   rm artifactheist
-      -   rm shoprobbery
-      -   rm undergroundheist
-      -   rm oilrigheist
-      -   rm drugboatheist
-      -   rm carheist
-      -   rm jailbreak
-      -   rm unionheist
-      -   rm vangelicofinal
-      -   rm yachtheist
-      -   tk peyote
-      -   tk houserobbery
-      -   az trailer
-      -   rpemotes new emotes
-      -   envi dumpsterdive
-      -   truck logistics and trucking vehicles
-      -   fennec dtd
-      -   doors creator
-      -   robbery creator
-      -   jobs creator
-      -   blips creator
-      -   boii chiphack minigame
-      -   dirk drug labs v2
-      -   patababy script
-      -   patababy props
-      -   sd announce
-      -   pata rccars
-      -   roller skating
-      -   brutal baby
-      -   stroller for above
-      -   rubk cube
-      -   sh electronic cuffs
-      -   sd notify
-      -   tgiann core
-      -   ps hud
-      -   ps mdt
-      -   ps ui
-      -   ps dispatch
-      -   ps buffs
-      -   qb tunerchip
-      -   qb beekeeping
-      -   qb menu
-      -   advanced drug creator
-      -   smartdrone
-      -   helirescue
-      -   m insurance
-      -   kq parking enforcer
-      -   kq outfit bag
-      -   k4mb1 miningcave
-      -   kevin methruns kevin banktrucks
-      -   boii ketamine
-      -   dd nailshop fixed export and added nail salon map
-      -   gg frisbeegolf
-    - additional weapons, two new swords and mechanic tool melee weapons  
-    - ketamine new drug
-    - stickers for cars is new with rcore stickers
-    - stancer scirpt requested
-## v1.115
-- Updated Server with windows updates
-- removed unused assets
-   - updates to the following scripts and assets:
-      -   rcore radiocar
-      -   rcore camping
-      -   rcore camping assets
-      -   advanced drug creator
-      -   rcore television
-      -   tv_scaleform
-      -   brofx_mansion 18
-      -   cd carhud
-      -   cd garage
-      -   door creator
-      -   fmshared weapon attachement pack
-      -   jim bakery
-      -   jim bars
-      -   jim beanmachine
-      -   jim catcafe
-      -   jim henhouse
-      -   jim lumberjack
-      -   jim popsdiner
-      -   jim tequilala
-      -   jim vanilla unicorn
-      -   jixel cluckinbell
-      -   jobs creator
-      -   kq carheist
-      -   qb casinoheist
-      -   mcx rattler, new attachments also added for this
-      -   rcore gangs
-      -   rcore mission pack
-      -   rcore mission framework
-      -   rcore mission assets
-      -   robbery creator
-      -   sh maze
-      -   sh rcCars
-      -   tgiann core
-      -   tzmc vending
-      -   rcore piano
-      -   eco crafting- can now add exports to open tables in custom event
-      -   truck logistics
-## v1.114
-- added more emotes, updated emotemenu
-- combined 21 resources into my own custom asset with 0ms and functionality to restart while live
-- reduced stone weight, mining laser price reduced, reduced weight of various ores
-- reduced taxes
-- updated the guide significantly
-- reduced blips
-   - updates to the following scripts and assets:
-      - Rcore Drunk
-      - Rcore Carnival
-      - Rcore Beerpong
-      - Pata Garden props - hopefully fixes the sinking
-      - Pata Valentines props
-      - Rcore PDM
-      - Rcore Piano
-      - Rcore Radiocar
-      - Rcore TV
-      - Advanced Drug Creator
-      - cd carhud
-      - cd garage
-      - gksphone
-      - pizzathis props
-      - kq loot areas
-      - qb vape
-      - qb gas station
-      - trucking logistics
-      - Rcore Spray
-      - Rcore Gangs v1.3
-      - robbery creator
-      - tgiann core
-      - airballoon bigger door
-      - Twotone_pack got some quality of life improvements
-      - sd notify
-      - qb admin
-      - rcore bowling
-      - Twotone carpack added 2020Explorer to pd section
-      - sd cokemission
-      - sd weedrun
-      - sd warehouse
-      - sd bobcat
-
-      
-## v1.113
-- added more emotes, updated emotemenu
-- added pointing hands up and other basic functions to the emote menu not yet active and in use
-- 82 Chameleon Paint colors now up from the 12 we had before
-- updates to closed shops, added murdermeal to burgershot
-   - updated the following scripts and assets
-      - PlasmaKart
-      - PlasmaTron
-      - PlasmaGame
-      - PlasmaCTF
-      - Advanced Drugs Creator
-      - Robberies Creator
-      - Rcore Radiocar
-      - Rcore Drunk
-      - M-Pondcoffee
-      - Jobs Creator
-      - Doors Creator
-      - Blips Creator
-      - Boii Cocaine
-      - Boii Heroin
-      - Boii Meth
-      - Jim- BeanMachine
-      - Jim- PizzaThis
-      - Rcore Casino
-      - Rcore PDM
-      - Jim- Bakery
-      - Pd Checkers
-      - Rcore Basketball
-      - Rcore Darts
-      - Rcore Mission Pack - added a new delivery job with update
-      - sh-electronic cuffs
-## v1.112
-- added tommy custom weapon sratching -small resources
-- Maddie fixed putting people in cars because she is amazing.
-   - updates to the following scripts and assets:
-      - 919 Admin - All panel settings now save on client side for better performance. Loading of the admin panel has been optimized and sped up substantially.
-      - Rcore Casino
-      - Rcore Carnival
-      - Rcore Drunk
-      - Pata Christmasprops
-      - Pata Gardenprops
-      - Pata Housingprops
-      - Pata Officeprops
-      - Rcore PDM
-      - Rcore Piano
-      - Rcore Radiocar
-      - Rcore Camping
-      - Rcore Television
-      - Rcore Darts
-      - Rcore Gangs
-      - Rcore Spray
-      - Advanced Drugs Creator
-      - sd-bobcat Fixed target error Fixed Guard Peds not syncing, if there were more than 8 of them
-      - boii-heroin - Fixed issue with morphine/liquid heroin prep not removing correct items - Added back in missing images file
-      - bzzz_juiceprops
-      - Doors Creator - Fixed a typo in Lithuanian translations that caused script errors
-      - FMShared weapon attachments
-      - pizzathisprops
-      - uwuprops
-      - k4mb1 shell pack - new january shells
-      - kq-loot areas
-      - loaf_housing - Added support for K4MB1's new January shells and Bugfix: Locking/unlocking an MLO house will now update last_entered so that MLO houses do not get deleted even if the player is active.
-      - m-insurance
-      - mt-market
-      - pd_checkers
-      - pd_chess
-      - qb gas station Fixed an issue when the owner deletes a job in Hire Deliveryman page it wasn't deleting in the trucker contracts list as well;
-      - Robberies Creator - Added fix for overflow caused when too many heists steps were appearing- Removed the chance to use "lethal gas" and "guards" in the first stage of an heist - Added various debug outputs, useful in case of issues when interacting with steps
-      - sd-oxyrun Replaced 'AddTargetModel' with 'AddTargetEntity' exports, in order to avoid conflicting Peds.
-      - sd-warehouse Fixed Guard Peds not syncing, if there were more than 8 of them
-      - sd-weedrun Replaced 'AddTargetModel' with 'AddTargetEntity' exports, in order to avoid conflicting Peds.
-      - sh-electroniccuffs
-      - sh-wingsuit - Item add/delete options added, parachute hidden in air, bug in superboost count fixed, added optional info notification. (wingsuit)
-      - dirk weed - Fixed issues with Seeds not being applied properly and other things not showing up in the UI
-      - Added ounces to drug crafting table, working on expanding drugs
-  - cleared up unused assets
-  - optimized my personal props and added them in
-  - starting large clothing rework more updates to come in the future.
-  - updated emote menu new runs:
-      -      Bigfoot (move_characters@orleans@core@) - Head hanging slightly forwards, somewhat hurting in left fot, wide with arms as if he's large, walking slow, runs crazy and fast (Used by this character in storymode: https://gta.fandom.com/wiki/Sasquatch_Roleplayer)
-      -      Coward (move_m@coward) - Hunched forward when standing still, other wise not diffrent from the default male walk.
-      -      Dave (move_characters@dave_n) - Shoulders are higher then normal walk, standing wide when still, left foot hurting when running/jogging (sprint is the default one) (Used by Dave Norton in storymode)
-      -      Femme2 (move_m@femme@) - Shoulders are "swinging", left leg is leaned on when standing still, generally can be best described as a feminine walk for male peds, run and sprint are like the default one (This is one of the avalible walks in GTA Online)
-      -      Jimmy (move_characters@jimmy) - Similar to nervous/slow (they are all from the same character afterall), but with out the nervous or slow part (walks normal speed and not tripping with legs when standing still) (Used by Jimmy, the son of Michael in storymode)
-      -      Patricia (move_characters@patricia) - Swinging with hips, straight/stiff back, run/sprint is similar to the default female one (Used by Patricia Madrazo in storymode)
-      -      Ron (move_characters@ron) - Entire body posture slightly hanging to the left, runs like an idiot, sprint is normal. (Used by Ronald "Ron" Jakowski in storymode)
-      -      Swagger2 (move_m@swagger@b) - Confident and somewhat slow walking, moving slightly to the right every so often, run an sprint is normal.
-      -      Gangster6 (move_f@gangster@ng) - Slight diffrent in walking speed, posture is noticible diffrent, arms are more straight when standing still.
-      -      Veryslow (move_m@leaf_blower) - Head looking down, walking very slowly, running with right arm as if he had a leaf blower, sprint is normal.
-      -      Flee5 (move_m@flee@c) - Similar to Flee4, but multiple diffrences like how many times he turns his head to look behind etc.
-      -      Floyd (move_characters@floyd) - Slightly leaned forward when walking, shoulders are high up when running.
-      -      Hurry3 (move_f@hurry@b) - A more paranoid version then move_f@hurry@a.
-      -      Lamar (move_characters@lamar) - This is the default Lamar walk.
-      -      Lamar2 (anim_group_move_lemar_alley) - A faster/more paranoid version of the Lemar walk.
-      -      Tracey (move_characters@tracey) - Left foot hurting, swings excessively with arms, idles with left foot forwards.
-   - added exit emotes to emote menu: This would add the option to add "exit emotes" for any emote. The point of adding this would be to allow for more "smooth" or "dynamic" animations to be set up, hopefully improving the "natural flow" when using emotes. Further down the line entry emotes could also be added to build on top of this.    
-## v1.111
-- fixed menu image pulling
-- moved boosting laptop and boosting disabler to crafting bench 
-- pulled napp-boostcraft for the two item trades since its craftable.
-- pulled m-foodvan, kind of pointless atm.
-- Started working on qb-smallresources large update.
-- Starting weed updates.
-- Finally Redid a Large portion of the car pack
-- rolled back theater to try to fix screen broken with map update
-   - updates to the following scripts and assets:
-       - 919 Admin
-       - cd Carhud
-       - cd garage: 
-         - Add:
-        - Added search option to quick and impound menu
-         - Vehicles can now be searched by name, location, plate or manufacturer
-         - Added option to allow multiple jobs to use the JobRestricted garages
-         - Added a staff command to change the plate of the vehicle you are in. This will allow custom plates to be used
-          - Added logs for the vehicle management commands
-          - Added a new function called SetFuel(), (just under the GetFuel() function) to the client_customise_me which will make adding compatibility with fuel scripts much easier. The read me has also been updated
-         - Added a check for the /vehicle-plate command to make sure you can not change a plate to one that already exists
-         - Added the vehicle labels to the transfer vehicle webhooks (ONLY when used from the chat command)
-         - Added the ability to rename all esx events such as the setjob and playerloaded events
-         - When using the regular job garage we had added the ability to restrict cars to certain job grades
-         - Added the ability to have dedicated car/air/boat garages for job garages. This will work with all 3 types of job garages
-         - Added an event that you can trigger after a player purchases a vehicle and it will update the garage_type in the database
-         - Added an event that you can trigger after purchasing a job vehicle and it will set the vehicle as a job owned vehicle (you can choose if you want this vehicle to be personal owned or society owned)
-         - Added full locales to the discord logs so you no longer need to redo them every time the file is updated
-            - Edit
-          - Updated quick menu design
-          - Added extra code to auto fix errors caused by the wrong formatting of QBCore's shared vehicle file.
-          - Added some code for the Config.DebugPrints option to help debug framework related issues.
-          - Improved load time of quick menu
-          - Major optimisation of the client side ms usage
-          - Updated all of the styling of the logs
-          - If you have added jobs to a JobRestricted garage, only people with said job(s) will be able to see this blip. It will also display which jobs this location is restricted to on the blip
-          - Reworked the job cars garage to use the drawtextui instead of chat commands
-          - Reworked the personal owned job vehicles. To make a vehicle a personal owned job vehicle you will need to set the new column in the database 'job_personalowned' to 1. Meaning you no longer need to add all of the personal owned job vehicles to a table in the config
-          - Simplified the whole job garage system in the config so its easier to understand
-          - Updated the codesign error handlers
-          - Reworked the garage tax system to get the garage tax value from each car from the "vehicles" database table. (make sure to insert the new SQL)
-          - Reworked the use of the "vehicles" database table. We now get the vehicle display name, vehicle price, vehicle class and the garage tax amount for each vehicle
-          - Updated the impound UI to the new system of getting the vehicle labels from the database if possible so it always shows the vehicles labels instead of the spawn names
-          - Moved the webhooks to a server only file so it can not be dumped from the config
-          - When impounding a vehicle, you can now choose to send the ID of the vehicle you wish to impound (so you can impound vehicles which are still on the back of tow trucks)
-          - Changed the /vehicle-add command so you can not add a vehicle to the database if it is already owned by a player
-          - Changed the /vehicle-delete so it does not log to discord if the vehicle is not owned by a player
-            - Fix
-           - Fixed an error with the save all vehicle damage events.
-           - Fixed an issue with lockpicking vehicles.
-           - Fixed an issue with saved vehicle keys.
-           - Fixed an bug where it would error when trying to transfer a vehicle when you only have 1 garage location configured.
-           - Fixed cars being able to move when hotwiring.
-       - cd garageshell2
-       - k4mb1 casino
-       - ot recycler
-       - rcore gangs
-       - tk-houserobbery
-       -  pd chess
-       -  pd checkers
-       -  qb-adminmenu put cars in categories based on shared lua
-## v1.110
-- Updated drops from trashcans
-   - updates to the following scripts and assets:
-      - bzzz_cocaplant prop
-      - bzzz_weedplant prop
-      - ak47 cookies v2
-      - ak47 usable cookies v2
-      - boii cocaine
-      - boii heroin
-      - boii mteh
-      - boii weed
-      - dirkdrugz prop
-      - dirk weed
-      - doors creator
-      - eco crafting
-      - jim mechanic
-      - jobs_creator
-      - oilrig collissions fixed
-      - prop fixes for three asset packs
-      - patoche bumpercar
-      - qb-diamond casino heist until rcore casino updates/releases the heist with out casino
-      - rcore basketball
-      - rcore basketball assets
-      - rcore bowling
-         - 🔷 update rcore_bowling
-         - added notification when player leaves bowling by going too far away from the lane
-         - fixed an issue where UI would stay open if player opened the UI manually via /bowling and then left bowling 
-      - rcore camping
-         - 💎 update rcore_camping 1.2.12
-         - fixed animation for fish and chicken in Config.FireCraftable  
-      - rcore camping assets
-      - rcore casino
-      - rcore drunk
-      - rcore pdm
-      - rcore tattoos
-          - Added API client event to reload business related markers
-         - Added Config.JobReloadDelay to reload business related markers automatically after set delay
-         - Removed default RCore Logo addon tattoos from config.lua
-            Everything described in documentation:
-            📙 https://documentation.rcore.cz/paid-resources/rcore_tattoos/ 
-      - rcore television
-      - tv_scaleform
-      - kq loot areas
-      - ps mdt
-      - ox lib
-      - m-insurance   
-## v1.109
-- tweaked payouts for more jobs: rcore mission pack payout increase, trucking logistics payout minimum and maximum increase
-   - updates to the following scripts:
-     - rcore casino
-     - rcore pdm
-     - 919 admin
-     - rcore spray
-     - sh electronic cuffs
-     - job creator
-     - doors creator
-- pulled christmas ymaps kept placed decorations
-- added new props
-- added back pond cafe
-- added back pond coffee job
-- added back legion square
-- added back jetski race in vinewood hills lake
-- Removed seatbelt safety feature(can now exit vehicle while wearing a seatbelt checks are only done for harnesses for exiting a vehicle
-- adjusted speed to take off and put on harness
-- more updates to come just taking it slow for now 
-- also a staff poll for possible scripts will go up in january
-## v1.108
-- tweaked payouts of multiple jobs
-- Configured props in furniture store
-- Attempting to fix armor part 3 - it didnt work
-- Fixed all 10 codes for dispatch
- - Started Work on massive qbcore update.
-    - Updates to the following qb scripts:
-        - qb-weed
-        - qb-weathersync
-        - qb-interior
-        - qb-input
-        - qb-hotdogjob
-        - qb-fitbit
-        - qb-doorlock
-        - qb-diving
-        - qb-customs
-        - qb-crypto
-        - qb-commandbinding
-        - qb-cityhall
-        - qb-busjob
-        - qb-banking
-        - qb-atms
-        - qb-apartments
-        - qb-ambulancejob          
-- updates to the following paid scripts:
-  - job creator
-    - rcore casino
-        - 🔷  update rcore_casino 1.0.28
-        - Poker: Fixed game logic / winnings calculation
-        - Blackjack: Ability to split 2 face cards
-        - Blackjack: Fixed showing incorrect chips on table. Chips objects on table equal the bet value
-        - Table games: Added sounds of chips while betting 🙂
-        - Fixed fullscreen prompt: Cashier, Vehicle purchase not detecting Enter for some players
-           - Map changes
-           - We've made support for the GTA:O casino interior, which is ready for our upcoming scripts and expansion packs
-           - We've removed rcore_casino_map which was included in the previous versions, and replaced it with rcore_casino_interior (MapType 5)
-           - The previous map is still supported in the script (you can keep your old map after update) 
-   - sd-oxyrun
-     - rcore camping
-            - 💎 update rcore_camping 1.2.11
-            - added server event when camping object is placed https://documentation.rcore.cz/paid-resources/rcore_camping/api#camping-object-placed
-            - added server event when camping object is cleared https://documentation.rcore.cz/paid-resources/rcore_camping/api#camping-object-cleared
-            - added server event (only) for object spawn https://documentation.rcore.cz/paid-resources/rcore_camping/api#place-a-camping-object-1 
-    - rcore tattoos
-    - sd-weedrun
-        - Small Code Cleanup(s), added onResourceStop for the peds, so when you ensure the resource in the game, it'll delete the previous ped and spawn the new one in 🙂 
-  - pd checkers
-  - pd chess
-  - rcore radiocar
-       - rcore guidebook
-            - 🔷 update 📖-guidebook 1.1.0
-            - ✨ Features
-            - added help point marker font options (5 default GTA fonts)
-            - added help point marker rotation (x, y, z) settings
-            - help point marker rotation can also follow player camera
-            - help point text size can be set to 0 instead of 0.1 before (making it invisible)
-            - If someone edits page you are currently editing, you will get popup warning at the top to refresh the page
-            - Guidebook can now be opened without any data loaded/created (displays text to reopen guidebook if data have not been loaded, or to create new data if player has admin rights)
-            - GPS buttons can now be put inline next to each other
-            - 🐛 Bug fixes
-            - fixed module not defined warning in console
-            - fixed video/image not keeping player set dimensions in page editor
-            - fixed edited page not syncing to all players, relog was needed
-            - fixed help point marker/text color input
-            - fixed when player clicked link and code selected html element inside the link, instead of link itself
-            - fixed GPS buttons empty character design bug
-            - fixed not being able to open help point/help point not showing help text 
-    - Bobcat Robbery
-        - Fixed Config.Debug & the SMG crate being untargetable if Config.DrawSprite (in qb-target) was true. (on the gabz version) 
-     - dpemotes  
-          - now rpemotes, lots of new emotes overall I used multiple sources to compile the props and animations.
-  - ox-lib
-  - prop updates
-  - m-pondcoffee
-## v1.107b
-- !!UPDATED CORE FUNCTION (changed all QBCore:HasItem to QBCore:Functions:HasItem) -created backup and merged changes with new.!! 
-    - hoping this fixes some issues
-- Pulled plasma and plasma dlc maps to stop crashing in vespucci thank you Maddie for figuring that out
-- Attempting to fix armor part 2 - it worked
-- Mile High club pools full now
-- updates to the following scripts:
-  - m-insurance
-  - kq-detective
-  - jl-motel
-  - qb-prisonjobs
-  - sh-maze
-  - fiv3devs_risingsun
-  - Rcore radiocar:
-       - 🔷 updated rcore_radiocar
-          - Fixed memory leak in js
-          - More efficient method sending position to the NUI
-  - rcore guidebook:
-    - ✨ Features
-      - added help point marker font options (5 default GTA fonts)
-      - added help point marker rotation (x, y, z) settings
-      - help point marker rotation can also follow player camera
-      - help point text size can be set to 0 instead of 0.1 before (making it invisible)
-      - If someone edits page you are currently editing, you will get popup warning at the top to refresh the page
-      - Guidebook can now be opened without any data loaded/created (displays text to reopen guidebook if data have not been loaded, or to create new data if player    has admin rights)
-      - GPS buttons can now be put inline next to each other
-     - 🐛 Bug fixes
-        - fixed module not defined warning in console
-        - fixed video/image not keeping player set dimensions in page editor
-        - fixed edited page not syncing to all players, relog was needed
-        - fixed help point marker/text color input
-        - fixed when player clicked link and code selected html element inside the link, instead of link itself
-        - fixed GPS buttons empty character design bug
-        - fixed not being able to open help point/help point not showing help text
-         
-  - pd chess
-  - pd checkers
-  - robbery creator
-  - 919 admin:
-  - Version 1.5.6
-   -  FULL LOCALES SUPPORT w/ 3 LANGUAGES (NL, DE, EN)
-   -  German translation by @sneaxdev 
-       - other minor new features:
-          - Automatic version checker - users will now be notified on server startup in console if a new version is available)
-  - rc cars
-  - mycoduments
-  - rcore carnival
-  - tgiann-core
-  - rcore tattoos, now ownable with jobs in the future:
-     - ✨ Features
-        - Added ability to own a Tattoo Shop
-        - Added ESX & QBCore support for society, job and bossmenu
-        - Added complex business
-        - Added simple business
-
-      - Complex business
-        - can have job and employees
-        - customer creates tattoo session that employee can join
-        - customer has to wait for employee
-        - customer can browse tattoos while waiting
-        - employee can join via 🖌️ marker in the shop
-        - employee will have idle animation while waiting for customer
-        - tattoo gun is added to employee's hand
-        - Customer will be sat down on a chair after choosing tattoo
-        - Employee is prompted to confirm start of tattooing
-        - After confirming, employee starts tattooing minigame
-        - Employee must keep steady hands to finish minigame and tattoo customer
-        - Customer/Employee can leave the session anytime 
-        - Customer get's to original shop position after tattoo is finished and employee get's idle animation again
-        - Added margin to configure profit of shop per tattoo in bossmenu
-        - Money is added to business after each successful tattoo purchase
-        - Employee can use ESX or QBCore bossmenu to configure their business
-        - Employee can also use basic menu to configure margin of price
-        - Employee marker label, customer sitting animation (position and animation type), employee idle & tattooing animation (pos and type), job grades, bossmenu ESX options all configurable in config_business.lua
-
-      - Simple Business
-        - STANDALONE - will work without any framework
-        - Some functions regarding money and job won't work, check documentation for more info
-        - Does not have employees/job
-        - Money will still be added to business after each tattoo purchase
-        - Deposit/Withdraw money from custom standalone bossmenu
-        - Business name, owner identifier, bossmenu location and marker settings editable in config 
-        - Business can be easily switched from simple to complex with one edit in config (money of society will be converted to simple business table and vice versa)
-        - New rcore_tattoos_business table in database
-
-       - Config Business
-          - Min/max margin
-          - Minigame timeout/tutorial time and difficulty
-          - complex/simple business setup
-
-      - Other features
-         - Config.PriceMultiplier - price multiplier for all tattoos
-        - Tattoo Opacity has been turned off and moved to experimental features
-        - Frameworks.STANDALONE option added to use limited version of script easily (more in docs)
-        - Shop file filter - you can have shop e.g. only with hair fades, or shop dedicated to gang tattoos, etc
-        - All esx/qbcore event names moved to config_events.lua if anyone needs to edit (more in docs)
-        - Added possibility to add custom code after each tattoo reset (e.g. to reapply hair fades from other scripts etc.)
-        - Pressing ESC in tattoo list menu will return you to body parts menu
-        - Added all previously available languages support for business update (many thanks to our wonderful translators!!!)
-        - Added basic discord logs (tattoo buy, sell...)
-        - refactored buying process because of business update
-        - Added more debug prints for easier bug finding
-        - Removed ability to open tattoo menu from client for another player with event call
-        - If body part has no available tattoos to buy, it becomes disabled in menu and can't be clicked
-
-      - 🐛 Fixes
-        - Fixed henna translation bug (displaying 0 days)
-        - Fixed Tattoo could be bought without opening tattoo list menu
-        - Fixed PlayerData and job errors when not using esx/qbcore
-        - Fixed Camera slider not initializing correctly after shop close and reopen
-        - Fixed problem with renamed crucial scripts like esx/qb...
-        - Fixed UI responsivity bug
-        - Fixed Player job not found after login
-        - Fixed correct marker rendering and render stop
-        - Fixed default config settings bug 
- 
-      - 📙 Documentation
-        - added business update features
-        - added troubleshooting section
-        - edited API category - removed open menu call from client to client
-        - added Framework.STANDALONE info
-        - added PriceMultiplier, fileFilter, Config.Events, Opacity
-
-## v1.106
-- Added addon clothing please start gathering a list of clothes to pull/replace.
-  - female top 550-560
-  - female hair 176-185
-  - female accessories 171-173
-  - mask 259-261
-  - female shoes 159-163
-  - male hair 122-125
-  - male mask 285-287
-  - male shoes 144-147
-- lowered ped and vehicle density
-- pulled maps not in use
-- pulled scripts not in use
-- updated Plasma Game
-- vehicle condensing
-- sound pack condensing 
-- chopshop adjustments, steel is now only gettable via crafting
-- shops at vespucci beach market are back and working great with cafe coretto pulled for now.
--  updates to the following scripts:
-  - rcore-casino
-  - boii-hunting
-  - Bobcat robbery
-  - rcore camping
-  - Pata_BabyScript
-  - Pata_nurseryProps
-  - PD_chess
-  - mt-martket
-  - electronic cuffs
-  - job creator
-  - beachgame
-  - wingsuit? may have broke it not sure
-  - tgiann-core
-  - patoche_bumpercar_script
-- removed the following scripts and maps:
-  - kevin-banktrucks - causing timeouts
-  - kevin-methruns - causing timeouts
-  - kevin-oxyruns - causing timeouts 
-  - kevin-weedruns - causing timeouts
-  - brofx paleto motel
-  - cayo perico
-  - cl-policegarage
-  - iak_drugfarm
-  - iak_trashjob
-  - iak_wonkas_fudge_factory
-  - jr_cafe_corretto
-  - lightbars
-  - lightbarscript
-  - mydocuments-hopfully will be fixed and come back
-  - pickle_airport
-  - qb_crabs-main
-  - qb-vs
-  - rex_nft
-  - runwaytaxing, afterburner, soundbarrier
-  - secret_lab
-  - sc1_29_motel-davis motel
-  - thug-cocaine boat
- 
-## v1.105
-- fixed xmas food and drinks
-- Fixed map conflict with the toolshop finally
-- updated more props to comply with changes, new props
-- fixed car damages
-- updated Plasma Game
-- updates to ambulance job trying to make it so when people are downed it doesnt call automatically
-- updates to nailshop- still working on getting it fully implemented
--  updates to the following scripts:
-  - dd-nailShop-qb
-  - Pata_christmasProps
-  - PD Chess
-  - lh34-diamondcasino
-  - qb-core-vapes
-  - Pata_BabyScript
-  - Pata_nurseryProps
-  - m-Christmas
-  - kevin-weedruns
-  - mt-restaurants
-  - electronic cuffs
-  - kq loot areas
-  - jl-motel
-  - DirkWeedGrow
-  - rcore_camping
-  - rcore_casino
-  - tgiann-core
-  - patoche_bumpercar_script
-  - rcore_drunk
-  - tk-houserobbery
-  - GKSPHONE
-  - m-Insurance
-  - [BOII-COCAINE]
-  - PD Ultimate Checkers
-  - RC Cars
-
-## v1.104
-- Another map optimization
-- updated some props to comply with changes
-- updated weapons * MCXRattler and MK47Banshee*
-- Updated fivem appearance and fixed the ambulance changing room again
-- adjusted pizza delivery job
-- fixed christmas food and drinks
-- pulled crabs to try to figure out the issue
-- minor trucking xp adjustments
-- fixed dispatch notification system (/togglealerts on) should enable all pop ups
-- updates to the following scripts:
-  - rcore-casino
-  - sd-oxyrun
-  - sd-weedrun
-  - truck logistics
-  - patoche bumper cars
-  -  myDocuments -- condensed id card script think /documents to help limit what players actually have to carry on them
-  -  rcore_drunk
-  -  patababyscript
-  -  rcore camping
-  -  rcore_tattoos with additional tattoos
-  -  core evidence
-  -  dirk weed growing
-  -  item weight balancing to counter the broken delivery truck trunk
-  
-  
-## v1.103
-- Map and prop optimizations(should fix random crash from incorrectly loaded props)
-- More christmas decorations added
-- Updates coming soon for dpemotes and eco crafting.
-- Updates to the following scripts:
-  - rcore-casino
-  - rcore-camping
-  - Advanced drugs
-  - boii cocaine
-  - plasmagame
-  - gksphone
-  - jl-motel
-  - job creator
-  - m-christmas
-  - m-insurance
-  - patoche bumpercars(script and map)
-  - emsnpc
-  - tk-houserobbery
-## v1.102
--Christmas decorations added, extra christmas props added.
--Hopefully fixed carboosting
--More Vehicle optimizations/ vehicle weight adjustment for agtr35.
--Updates to the following scripts:
-  - m-christmas (
-    -Added snowballs.
-    - Added command to collect snowballs on the ground.
-    - Only possible collect snowballs if the weather is "xmas".)
-  - Plasmagame bundle (v4 update)
-  - m-insurance
-  - kevin methruns (
-    - Removed Polyzone useage and replaced with ps-zones
-    - Added a better gps tracker for the meth vehicle
-    - Clean/organized code a better for easier understanding.)
-  - jl-motel can now use hotels as apartments if we choose---------------STAFF-VOTE-----------------------
-  - rcore_camping 
-  - updated evidence, can be destroyed after 120 seconds, is washed away in rain.
-## v1.101
-- Christmas activated, m-christmas, legion christmas map, ice skating with /roller and /leave, snowball pickup with E, xgifts for christmas setup
-- Vehicle pack optimizations
-- Map pack optimizations[Merged cookies sandy and garage shells with comic store and put in tommymappack]
-- reverted changes to small resources that stopped crosshair from working[telescopes, lotto, crosshair]
-- merged scripts into small resources[speedlimits, bmx carry, portable yoga, carbomb, lootpeds, qb-peds, qb0sit, randombox]
-
-- Updates to the following scripts:
-  - GKS PHONE, charging system added with update disabled and phone updated to work properly.
-  - Kevin-banktrucks
-  - Randol Hitman
-  - kq lootareas
-  - jim-plates v1.3.9
-  - lh34 carboosting-- got reports of issues already
-  - m-christmas
-  - sd-oxyrun, sd-warehouse, sd-weedrun
-  - Truck Logistics
-  - Dirk weed
-  - jl-motel
-  - Boii cocaine
-  - Boii Meth
-  - Boii skillsmenu, added in all the trackable skills.
-  - Kevin Oxyruns update and lowered chance of police call
-  - bankrobbery inventory fixes
-## v1.1
-- Removed the vehicle inventory notification message.
-- Added blah blah blah
-- Fixed blah 
-
-## v1.0
-- Removed the vehicle inventory notification message.
-- Added blah blah blah
-- Fixed blah 
+      -   Reduced Car Pack by 7.2GB
+      -   cc_irishpub
+      -   huntcabin
+      -   brofx_mafia
+      -   brofx_mansion_18
+      -   cfx_gabz-altruists
+      -  cfx_gabz-bowling
+      -  cfx_gabz-marabunta
+      -  cfx_gabz-mba
+      -  cfx_gabz-sandypd
+      -  csafemlo- grapeseed gang house
+      -  forest_mansion
+      -  int_lodge
+      -  int_yatchclub
+      -  lafa2k_modernhouse
+      -  map-little-seoul_compound
+      -  opendoor_madrazo
+      -  potoche_beachgame
+      -  potochevillage
+      -  ultra-racetrack
